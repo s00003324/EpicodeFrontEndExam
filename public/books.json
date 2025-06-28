@@ -1,0 +1,52 @@
+[
+  {
+    "title": "10 Matti Uccellini",
+    "author": "Vittorio Sessa Vitali",
+    "cover": "/src/assets/10mattiuccellini.jpg"
+  },
+  {
+    "title": "1351 parole inglesi",
+    "author": "Lee Ann Bortolussi",
+    "cover": "/src/assets/1351paroleinglesi.jpg"
+  },
+  {
+    "title": "A Day on the Farm",
+    "author": "Eric Carle",
+    "cover": "/src/assets/adayonthefarm.jpg"
+  },
+  {
+    "title": "Animali della Fattoria",
+    "author": "Tony Wolf",
+    "cover": "/src/assets/animalidellafattoria.jpg"
+  },
+  {
+    "title": "At the Beach",
+    "author": "Eric Carle",
+    "cover": "/src/assets/atthebeach.jpg"
+  },
+  {
+    "title": "In the Snow",
+    "author": "Eric Carle",
+    "cover": "/src/assets/inthsSnow.jpg"
+  },
+  {
+    "title": "Il Corpo Umano",
+    "author": "Anna Casalis",
+    "cover": "/src/assets/ilCorpoUmano.jpg"
+  },
+  {
+    "title": "Il Mare",
+    "author": "Giunti Kids",
+    "cover": "/src/assets/ilmare.jpg"
+  },
+  {
+    "title": "La Giungla",
+    "author": "Eric Carle",
+    "cover": "/src/assets/lagiungla.jpg"
+  },
+  {
+    "title": "La Mia Prima Enciclopedia",
+    "author": "De Agostini",
+    "cover": "/src/assets/lamiaprimaenciclopedia.png"
+  }
+]
