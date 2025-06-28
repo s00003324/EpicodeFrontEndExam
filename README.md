@@ -61,7 +61,7 @@ src/
 
 Assicurati di avere installato Node.js e npm.
 
-Per avviare il progetto:
+Per avviare il progetto su desktop:
 
 ```bash
 npm install
