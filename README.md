@@ -1,7 +1,7 @@
 # Book Manager Project
 
 Matricola Epicode: S00003324
-Anno accademico: 2024/2025
+Anno accademico: 2025/2026
 
 # Descrizione
 
@@ -96,3 +96,4 @@ Tutti i dati sono simulati e gestiti in locale.
 - API simulata (dati da JSON o costanti)
 - Form controllati con validazione
 - Condizionale rendering (Navbar diversa se loggato/admin)
+
